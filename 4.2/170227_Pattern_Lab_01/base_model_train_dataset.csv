@@ -1,0 +1,6 @@
+EXERCISE,SMOKER,OBESE,FAMILY,RISK
+daily,False,False,yes,low
+weekly,True,False,yes,high
+daily,False,False,no,low
+rarely,True,True,yes,high
+rarely,True,True,no,high
